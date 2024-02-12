@@ -2,9 +2,9 @@
 
 Perkenalkan nama saya **Hamizan Hibatullah**.<br>
 
-Saya seorang **UI/UX Designer** di [Dicoding](https://www.dicoding.com/).<br>
+Saya seorang **UI/UX Designer dan Data Analyst**.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/hamizanhibatullah/)ku ya.
 
 <p align="left">
 <a href="https://github.com/ham407">
